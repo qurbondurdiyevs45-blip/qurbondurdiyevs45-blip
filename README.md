@@ -35,5 +35,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurbondurdiyevs45-blip&theme=neon&hide_border=true" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=neon&hide_border=true" width="100%" />
 </p>
