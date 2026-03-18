@@ -22,7 +22,7 @@
 <h2 align="center">🛠 Tech Arsenal</h2>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,github,vscode,python ai&perline=14" width="100%" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,github,vscode,ai&perline=14" width="100%" />
 </p>
 
 <div align="center">
