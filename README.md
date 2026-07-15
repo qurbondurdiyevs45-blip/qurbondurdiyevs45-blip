@@ -1,4 +1,4 @@
-###  I'm Qurbondurdiyev Sardorbek Asqar o'g'li 👋
+###  I'm Qurbondurdiyev Sardorbek 👋
 
 <p align="center">
   
@@ -22,12 +22,12 @@
 
 ## 🚀 Men Haqimda / About Me
 
-Men **Xorazm viloyati, Xonqa tumanidagi 26-sonli maktabda** o'qiyman. Dasturlashga va sun'iy intellekt (AI) texnologiyalariga juda qiziqaman.
+Men **Xorazm viloyati, Xonqa tumanidagi 26-sonli maktabning 8-sinf o'quvchisiman**. Yosh bo'lishimga qaramay, frontend veb-dasturlash, sun'iy intellekt (AI) va ingliz tilini chuqur o'rganishga juda qiziqaman.
 
-* 🤖 **Loyihalarim:** Netlify Webhooks va Gemini API yordamida **MySuperAIBot** hamda Linux serverda ishlovchi **MusicFinder** Telegram botlarini yaratganman va boshqaraman.
-* 💻 **Veb ilovalar:** HTML5 Canvas yordamida 2D survival shooter o'yini hamda sun'iy intellektga asoslangan IELTS tayyorlov platformasi ustida ishlayapman.
-* 📢 **Mening blogim:** Telegramdagi **[WebCore Dev](https://t.me/WebCore_Dev)** kanali orqali frontend dasturlash bo'yicha foydali materiallar ulashib boraman.
-* ⚽ **Qiziqishlarim:** Futbol ishqiboziman, **Real Madrid** va **Cristiano Ronaldo** muxlisiman.
+* 🤖 **Bot-Development:** Netlify Webhooks va Gemini API integratsiyasi asosida **MySuperAIBot** hamda Linux serverlarida fon rejimida ishlovchi **MusicFinder** botlarini yaratganman.
+* 💻 **Veb Loyihalar:** HTML5 Canvas va JavaScript yordamida PUBG uslubidagi 2D survival shooter o'yini hamda sun'iy intellekt orqali gapirish va yozishni baholovchi IELTS platformasi ustida ishlayapman.
+* 📢 **Mening Blogim:** Telegramda frontend olami va dasturlash sirlarini ulashadigan **[WebCore Dev](https://t.me/WebCore_Dev)** kanali asoschisiman.
+* ⚽ **Qiziqishlarim:** Futbolga juda qiziqaman, **Real Madrid** va **Cristiano Ronaldo** jamoasining sodiq muxlisiman. Bo'sh vaqtimda esa Freelancer.com platformasida dizayn loyihalarini kuzataman.
 
 ---
 
@@ -55,10 +55,6 @@ Men **Xorazm viloyati, Xonqa tumanidagi 26-sonli maktabda** o'qiyman. Dasturlash
 ## 📱 Aloqa / Connect With Me
 
 <p align="center">
-  <a href="https://t.me/sardorbek_dev_uz" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="https://t.me/WebCore_Dev" target="_blank">
     <img src="https://img.shields.io/badge/WebCore%20Dev%20Kanal-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
