@@ -1,87 +1,81 @@
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3B0N3p2OWF4cjd0MDlxN2dzZmdicnl0NnpkNDR0Mnd3b295YzAyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L8K62iTDxFg6GP9mwS/giphy.gif" width="35px"> Salom! Men Qurbondurdiyev Sardorbek Asqar o'g'li 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Frontend+Developer+in+Progress..;Telegram+Bot+Creator;Tech+Enthusiast;Learner)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,35:00f260,70:0052d4,100:000000&text=Sardorbek%20Dev&fontSize=50&fontColor=39FF14&animation=twinkling" width="100%" />
-</p>
+![Visitors](https://api.visitorbadge.io/api/visitors?path=SardorbekDev&label=Profile%20Views&countColor=%23263238&labelStyle=upper)
 
-<!-- Neon Line -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
-
-<!-- Interaktiv Typing Animatsiyasi -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=00F260&center=true&vCenter=true&width=820&lines=%E2%9A%A1+Frontend+Web+Developer;%F0%9F%A4%96+Telegram+Bot+Expert+(Render+%26+Netlify);%F0%9F%8E%93+Al-Xorazmiy+vorislari+IT+O'quvchisi;%F0%9F%9A%80+AI+Integrations+Creator" alt="Typing SVG" />
-  </a>
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
+# Assalomu alaykum! | Hi There! 👋  
+Men **Qurbondurdiyev Sardorbek**man — Xonqa tumanidagi **26-maktab** o'quvchisi, veb-dasturlash va sun'iy intellekt texnologiyalariga qiziqadigan shijoatli yosh dasturchiman.  
+I'm **Qurbondurdiyev Sardorbek** — a young developer from School 26, passionate about building modern web apps, Telegram bots, and exploring AI.
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB5bmV5bnFpOTJ5dTZjZ2t6dGdpa2RndGNwM3F4cGg4eGRtc3g1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZgS8pSod88S9a3I7f8/giphy.gif" width="30px"> Men Haqimda / About Me
-
-Men **Xorazm viloyati, Xonqa tumanida** yashovchi, dasturlash va sun'iy intellekt texnologiyalariga chuqur qiziquvchi **Frontend dasturchiman**. Kelajakda global miqyosdagi raqamli mahsulotlarni yaratish ustida ishlayapman.
-
-* 🎓 **Ta'lim va Yutuqlar:** Xonqa tumanidagi 48-sonli ixtisoslashtirilgan maktab-internati o'quvchisiman. Yaqinda **IT Park** tomonidan o'tkazilgan Web Development imtihonida **81/100 ball** topladim.
-* ⚙️ **Hozirgi Loyihalarim:** 
-  * Netlify Webhooks va Gemini API yordamida ishlaydigan **MySuperAIBot**.
-  * Foydalanuvchilar musiqalarni tezkor topishi uchun yaratilgan **MusicFinder** boti.
-  * HTML5 Canvas va JavaScript-da yozilgan **PUBG uslubidagi 2D survival shooter** o'yini.
-  * AI yordamida nutq va matnni tekshiruvchi **IELTS Preparation Platformasi**.
-* 📢 **Mening Blogim:** Telegramdagi **[WebCore Dev](https://t.me/WebCore_Dev)** kanali asoschisiman — bu yerda frontend olami va dasturlash sirlarini ulashaman!
-* ⚽ **Qiziqishlarim:** Futbol muxlisiman, **Real Madrid** va **Cristiano Ronaldo**ning ashaddiy ishqiboziman.
-
----
-
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVnYXFhMmV2dmc2N3N0ZmlqMzRjZXhpYmdtc3J6dmRhY3FtdGR4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H4m81S4B2Yx83p0yF7/giphy.gif" width="30px"> 🛠 Tech Arsenal (Texnologiyalarim)
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,github,vscode,ai,netlify&theme=dark" width="70%" />
-  </a>
-</p>
+## 💻 Dasturlash yo'nalishim | My Development Path
+- 🌐 **Frontend:** 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- ⚙️ **Backend & Telegram Bots:** 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+- 🛠️ **AI & Hosting Tools:** 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) 
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+- 🚀 **Hozirgi maqsad:** Sun'iy intellekt (Gemini API) va backend webhooklari yordamida interaktiv loyihalar hamda foydali Telegram botlari yaratish.
 
 ---
 
-## 📊 Dinamik GitHub Statistika (Jonli Animatsiyalar)
-
-<p align="center">
-  <!-- Haftalik faollik grafigi -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadbek11211&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
-
-<p align="center">
-  <!-- Kattalashtirilgan va ishlaydigan chiroyli Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadbek11211&theme=neon&hide_border=true" width="100%" />
-</p>
+## 🌱 Nimalarni o‘rganayapman | What am I learning?
+- React yordamida mukammal va moslashuvchan (responsive) UI interfeyslar qurish.
+- Telegram botlarni backend serverlar va Netlify webhooks orqali uzluksiz ishga tushirish.
+- Freelancerlik platformalarida real buyurtmalar bilan ishlash tajribasini oshirish.
+- Ingliz tili grammatikasi va so'z boyligini (AnkiDroid yordamida) rivojlantirish.
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2szbTlkYnk2djB2MWJ4M3RkdDR6amN3dzRreHFmaWRmZG5oZnp2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L8Gx6SscZdaM/giphy.gif" width="30px"> Aloqa va Ijtimoiy tarmoqlar
+## 🚀 Mening loyihalarim | My Projects & Bots
+*   **Tarix bilan tirik suhbat** — Lovable platformasida yaratilgan, tarixiy shaxslar bilan sun'iy intellekt orqali suhbatlashish imkonini beruvchi interaktiv veb-ilova.
+*   **MySuperAIBot** — Netlify va Gemini API asosida yaratilgan aqlli Telegram yordamchi bot.
+*   **MusicFinder Bot** — Telegram foydalanuvchilari uchun qulay musiqa qidiruv boti.
+*   **Survival Shooter** — HTML5 Canvas va JavaScript yordamida yozilgan omon qolish mini-o'yini.
 
-<p align="center">
-  <a href="https://t.me/sardorbek_dev_uz" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://t.me/WebCore_Dev" target="_blank">
-    <img src="https://img.shields.io/badge/WebCore%20Dev%20Kanal-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/sardor1kh.wl" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:qurbondurdiyevs45@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+---
 
-<!-- Profil ko'rishlar soni -->
-<p align="center">
-  <img src="https://komarev.com/normal-badge.png?id=asadbek11211&color=00F260&style=flat-square&label=PROFILE+VIEWS" alt="views" />
-</p>
+## 📢 Mening Telegram kanalim | My Telegram Channel
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnQydTVobTJub2JvOXM4Nzh3czIydXlyZTF0YTA2cWZ3NXQzZDNubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdIsXgC6z2yWf5hEre/giphy.gif" width="120px">
-</p>
+Dasturlash sirlari, frontend bo'yicha foydali kodlar va yangi loyihalarimni o'z kanalimda ulashib boraman!
+
+🔗 **[WebCore Dev kanaliga qo'shilish](https://t.me/azizbek_it_dev)** *(Kanal havolasini o'zingiznikiga almashtirib oling)*
+
+---
+
+## 💼 Onlayn Profillarim va Tarmoqlar | Online Profiles & Socials
+
+Quyidagi ijtimoiy tarmoqlar va platformalar orqali men bilan bog'lanishingiz yoki loyihalarimni kuzatib borishingiz mumkin:
+
+*   **💻 GitHub:** [Sardorbek Github Profili](https://github.com/Azizbek432) *(O'z profilingiz havolasini kiriting)*
+*   **💼 Freelancer:** [Freelancer.com Profili](https://www.freelancer.com) — Minimalist sayt dizayni va frontend xizmatlari uchun.
+*   **📢 Telegram:** [@Azizbek_Abdullayev09](https://t.me/Azizbek_Abdullayev09) *(Shaxsiy Telegram havolangizni yozing)*
+*   **🎥 YouTube:** [Sardorbek Dasturlash Kanali](https://www.youtube.com) — Texnologiyalar va dasturlashga oid videolar.
+*   **📸 Instagram:** [Sardorbek Instagram Sahifasi](https://www.instagram.com) — Shaxsiy va professional faoliyatim.
+*   **🌐 Google:** Google AI Studio va Gemini orqali yaratilgan eng so'nggi zamonaviy prototiplarim.
+
+---
+
+## 📊 GitHub Statistikalarim | My GitHub Stats
+
+![Sardorbek's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Azizbek432&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azizbek432&theme=dark)
+
+---
+
+## 🧩 Men haqimda qisqacha | About Me
+- 💡 Har kuni muammolarga kreativ yechim topish ustida ishlayman.
+- 🧠 *"Katta natijalar har kungi kichik qadamlar bilan boshlanadi"* degan g'oyaga ishonaman.
+- 🕹️ Bo'sh vaqtimda shaxmat o'ynashni va Rubob chalishni yoqtiraman.
+
+> "Dasturchi — bu muammolarni kod orqali hal qilish san’atini egallagan inson. Har bir satr — yangi imkoniyat, har bir xatolik — o‘sish uchun imkoniyatdir."
