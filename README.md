@@ -1,178 +1,42 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=00F700&lines=Full-stack+Developer+in+Progress..;Blogger;Learner)
+###  I'm Qurbondurdiyev Sardorbek 👋
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Azizbek432&label=Profile%20Views&countColor=%23263238&labelStyle=upper)
+<p align="center">
+  
 
-# Assalomu alaykum! | Hi There!  
-Men **Azizbek Abdullayev**man — web dasturlashga qiziqadigan, yangi narsalarni o‘rganishni yaxshi ko‘radigan yosh dasturchiman.  
-I'm **Azizbek Abdullayev** — a young developer who loves learning and building creative web projects.  
-
----
-
-## 💻 Dasturlash yo'nalishim | My Development Path
-- 🌐 **Frontend:** 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-- ⚙️ **Backend:** 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-- 🗄️ **Database:** 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-- 🛠️ **Tools:** 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-- ➕ **Other:** ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-- 🚀 **Now** Full-Stack loyihalar quryapman — frontenddan backendgacha | *Building Full-Stack projects end-to-end*
-- 🎯 **Goal:** Har kuni kod yozaman, har hafta deploy qilaman | *Write code daily, ship weekly*
-
----
-
-## 🌱 Hozir nimalarni o‘rganayapman | What am I learning now?
-- Moslashuvchan saytlar yaratish | Creating responsive websites
-- React bilan murakkab UI komponentlar | Complex UI components with React
-- FastAPI bilan REST API qurish | Building REST APIs with FastAPI
-- Full-Stack loyihalarni deploy qilish | Deploying Full-Stack projects
-- Freelancerlik va haqiqiy loyihalar bilan ishlash | Freelancing and working on real projects  
-
----
-
-## 🚀 Maqsadim | My Goal
-Men Full-stack dasturchi bo‘lish yo‘lida dasturlashni chuqur o‘rganmoqdaman. Hozirda foydali va zamonaviy veb-saytlar yaratish bilan birga, frilans loyihalar ustida ishlashga ham tayyorman.
-
-I am diving deep into programming to become a Full-stack developer. While building useful and modern websites, I am also open to freelance opportunities and collaborations.
-
----
-
-## 📌 Hozirgi holatim | My current situation 
-- 👨‍💻 Boshlang'ich Full-stack dasturchisi | Beginner Full-stack Developer
-- 🌱 Men hozirda JavaScript va Backend asoslarini o'rganyapman | I am currently learning JavaScript and backend basics.
-- 🛠️ Men mahoratimni oshirish uchun kichik loyihalar quryapman | I am building small projects to improve my skills.
-- 🌍 Portfolio veb-saytim Vercelga deploy qilingan | My portfolio website is deployed to Vercel
-- 💡 Men o'rganish, amaliyot va izchillikka e'tibor qaratyapman | I am focusing on learning, practice, and consistency.
-
----
-
-
-## 🌐 Mening portfoliom | My Portfolio
-> Meni boshlang'ich dasturchi sifatida loyihalarim va yutuqlarimni namoyish etadigan oddiy portfoliolarim: | A simple portfolio where I showcase my projects and progress as a beginner developer:
-
-## My first portfolio: | Mening birinchi portfoliom:
-🔗 https://azizbek-my-portfolio.vercel.app
-
-
-## My second portolio(it's modern..): | Mening ikkinchi portfoliom(u zamonaviy):
-🔗 https://my-modern-portfolio-azizbek.vercel.app/
-
-## My main portfolio | Mening asosiy portfoliom:
-🔗 https://my-responsive-portfolio-azizbek.vercel.app/
-
----
-
-## 🧩 Men haqimda qisqacha | About Me
-- 💡 Har kuni yangi g‘oyalar izlayman | I look for new ideas every day.
-- 🧠 “Katta natijalar kichik qadamlar bilan boshlanadi” tamoyiliga ishonaman | I believe in the principle "Big results start with small steps"
-- 🕹️ Bo‘sh vaqtda shaxmat o‘ynayman va Rubob chalishni yoqtiraman | In my free time, I play chess and the rubab.
-
----
-
-## 🛠️Texnologiyalar & Ko'nikmalar | Technologies & Skills
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-## 📊 Github Statistikalar | GitHub Stats
-
-![Azizbek's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Azizbek432&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Azizbek432&theme=dark)
-
----
-
-## 📊 Faoliyat Grafigi | Activity Graph
-
-![Azizbek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Azizbek432&theme=react&area=true&hide_border=true)
-
----
-
-##  Mening telegram kanalim 📊 | My telegram channel 📊
-
-🔗 https://t.me/azizbek_it_dev
-
----
-
-# 🚀 Web-Solutions & Services | Xizmatlar
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Azizbek432&label=Profile%20Views&countColor=%23263238&labelStyle=upper)
-
-Assalomu alaykum! Men sizga sifatli va zamonaviy veb-yechimlar yaratishda yordam beraman. 
-*Greetings! I help you create high-quality and modern web solutions.*
-
----
-
-### 🌐 Projects & Resources | Loyihalar va Resurslar
-
-| Resource | Link | Description | Tavsif |
-| :--- | :--- | :--- | :--- |
-| **🌍 Web-Site** | [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=google-chrome)](https://web-core-solutions.vercel.app/) | Services & Portfolio | Xizmatlar va Portfolio |
-| **📢 Telegram** | [![Telegram](https://img.shields.io/badge/Telegram-Join-0088cc?style=flat-square&logo=telegram)](https://t.me/WebCoreSolutions) | Useful Info & News | Yangiliklar va ma'lumotlar |
-| **💼 Portfolio** | [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat-square)](https://github.com/Azizbek432) | My Completed Projects | Mening barcha loyihalarim |
-
----
-
-### 🛠 Services | Men taklif qiladigan xizmatlar:
-
-* **Full-stack Web Development** | (React, Node.js, Python, etc.)
-* **Telegram Bots** | Murakkab biznes jarayonlarini avtomatlashtirish *(Business process automation)*
-* **UI/UX Design** | Figma orqali zamonaviy interfeyslar *(Modern interfaces via Figma)*
-* **Technical Support** | Texnik qo'llab-quvvatlash va modernizatsiya *(Support & Modernization)*
-
----
-
-## 📫 Aloqa | Contact
-
-<p align="left">
-  <a href="https://t.me/Azizbek_Abdullayev09" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://github.com/Azizbek432" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/azizbek-abdullayev-future-full-stack-developer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/@Azizbek_Abdullayev__2026" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="https://www.youtube.com/@AzizbekAbdullayev-2026" target="_blank"><img src="https://img.shields.io/badge/YouTube%202-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube 2"></a>
+ <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
+<p align="center">
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:4CAF50,100:000000&text=Hii%20I'm%20Qurbondurdiyev_Sardorbek%20Welcome%20to%20my%20GitHub%20profile!&fontSize=30&fontColor=39FF14&animation=twinkling&fontAlignY=38"/>
 </p>
 
-### 📱 Social Media Accounts:
 
-* **X (Twitter):**
-    * [<img src="https://img.shields.io/badge/X-Main-000000?style=flat&logo=x&logoColor=white">](https://x.com/AzizbekAbd5902) — Asosiy profil
-    * [<img src="https://img.shields.io/badge/X-Secondary-000000?style=flat&logo=x&logoColor=white">](https://x.com/Azizbek__dev) — Developer profili
+ <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3px">
+<h1 align="center" style="color:#39FF14; text-shadow: 0 0 8px #39FF14, 0 0 20px #39FF14;">
 
-* **Instagram:**
-    * [<img src="https://img.shields.io/badge/Instagram-Business-E4405F?style=flat&logo=instagram&logoColor=white">](https://www.instagram.com/_azizbek_future_programmer) — Professional
-    * [<img src="https://img.shields.io/badge/Instagram-Personal-E4405F?style=flat&logo=instagram&logoColor=white">](https://www.instagram.com/azizbek_personal_account) — Shaxsiy
 
-## 💬 Discord
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=900&color=00F260&center=true&vCenter=true&width=820&lines=Python+Developer;Al-xorazmiy+vorislari+IT+O'quvchi" />
+</p>
 
-Dasturlash va loyihalar haqida suhbatlashish uchun Discord'ga qo'shiling!
 
-Join my Discord to discuss programming and projects!
+<h2 align="center">🛠 Tech Arsenal</h2>
 
-[![Discord](https://img.shields.io/badge/Discord-azizbek__dev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/azizbek_dev)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,github,vscode,ai&perline=14" width="100%" />
+</p>
 
-> "Dasturchi — bu muammolarni kod orqali hal qilish san’atini egallagan inson. Har bir satr — yangi imkoniyat, har bir xatolik — o‘sish uchun imkon."
-> "A programmer is someone who has mastered the art of solving problems through code. Every line is a new opportunity, every mistake is an opportunity for growth."
-Mana wu qodni menhaqimdagi barcha malumotlarni manawu bolanikidek qilib ber bu bolani ornida meni keyin ijtimoiy tar moqlar haqimdagi malumotlarni toğirlab qod yoz bowqa jpyiga tegma
+<div align="center">
+
+<div align="center">
+
+## 📊 GitHub Analytics
+</div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadbek11211&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadbek11211&theme=neon&hide_border=true" width="100%" />
+</p>
+Github akkauntimni zpr qilib eng zamonaviy hammaga ypqadigan qilmoqchiman men haqimdgdagi malumotlardan foydalanib qod yoz
