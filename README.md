@@ -1,4 +1,4 @@
-###  I'm Qurbondurdiyev Sardorbek 👋
+###  I'm Qurbondurdiyev Sardorbek Asqar o'g'li 👋
 
 <p align="center">
   
@@ -57,6 +57,10 @@ Men **Xorazm viloyati, Xonqa tumanidagi 26-sonli maktabda** o'qiyman. Dasturlash
 <p align="center">
   <a href="https://t.me/sardorbek_dev_uz" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/WebCore_Dev" target="_blank">
+    <img src="https://img.shields.io/badge/WebCore%20Dev%20Kanal-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://instagram.com/sardor1kh.wl" target="_blank">
