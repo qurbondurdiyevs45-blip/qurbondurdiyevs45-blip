@@ -36,9 +36,11 @@ Men **Xorazm viloyati, Xonqa tumanidagi 26-sonli maktabning 8-sinf o'quvchisiman
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asadbek11211&show_icons=true&theme=neon&hide_border=true&title_color=39FF14&icon_color=39FF14&text_color=ffffff&bg_color=0D1117" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadbek11211&layout=compact&theme=neon&hide_border=true&title_color=39FF14&text_color=ffffff&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadbek11211&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asadbek11211&theme=2077" width="100%" />
 </p>
 
 <p align="center">
