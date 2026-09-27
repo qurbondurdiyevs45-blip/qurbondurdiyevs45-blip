@@ -14,7 +14,7 @@
 
 ## 🚀 Men Haqimda / About Me
 
-Men **Xorazm viloyati, Xonqa tumanidagi 26-sonli maktabning 8-sinf o'quvchisiman**. Yosh bo'lishimga qaramay, **Frontend veb-dasturlash**, **Sun'iy intellekt (AI)** va **Ingliz tili (IELTS)** bo'yicha amaliy loyihalar ustida ishlamoqdaman.
+Men **Xorazm viloyati, Xonqa tumanidagi 26-sonli maktabning 8-sinf o'quvchisiman**[cite: 5]. Yosh bo'lishimga qaramay, **Frontend veb-dasturlash**, **Sun'iy intellekt (AI)** va **Ingliz tili (IELTS)** bo'yicha amaliy loyihalar ustida ishlamoqdaman.
 
 - 🤖 **Bot Development:** Netlify Webhooks va Gemini API integratsiyasi asosida **MySuperAIBot** hamda Linux serverlarida fonda ishlovchi **MusicFinder** botlarini yaratganman.
 - 💻 **Veb Loyihalar:** HTML5 Canvas va JavaScript yordamida PUBG uslubidagi 2D survival shooter o'yini hamda AI yordamida nutq va yozishni baholovchi IELTS platformasi ustida ishlayapman.
@@ -36,23 +36,11 @@ Men **Xorazm viloyati, Xonqa tumanidagi 26-sonli maktabning 8-sinf o'quvchisiman
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadbek11211&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qurbondurdiyevs45-blip&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asadbek11211&theme=2077" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asadbek11211&theme=neon&hide_border=true" width="100%" />
-</p>
-
----
-
-## 🐍 Hissa Qo'shish Grafigi (Contribution Snake)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurbondurdiyevs45-blip&theme=neon&hide_border=true" width="100%" />
 </p>
 
 ---
@@ -76,5 +64,5 @@ Men **Xorazm viloyati, Xonqa tumanidagi 26-sonli maktabning 8-sinf o'quvchisiman
 <br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asadbek11211&color=39FF14&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=qurbondurdiyevs45-blip&color=39FF14&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
