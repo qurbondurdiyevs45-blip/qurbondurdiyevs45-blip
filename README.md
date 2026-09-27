@@ -30,25 +30,6 @@ Men **Xorazm viloyati, Xonqa tumanidagi 26-sonli maktabning 8-sinf o'quvchisiman
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github,vscode,netlify,linux&perline=6" />
   </a>
 </p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qurbondurdiyevs45-blip&theme=react-dark&hide_border=true&area=true" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qurbondurdiyevs45-blip&theme=2077" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurbondurdiyevs45-blip&theme=neon&hide_border=true" width="100%" />
-</p>
-
----
-
 ## 🐍 Hissa Qo'shish Grafigi (Contribution Snake)
 
 <p align="center">
